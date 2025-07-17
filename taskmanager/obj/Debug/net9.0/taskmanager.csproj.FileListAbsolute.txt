@@ -1,0 +1,15 @@
+C:\Users\Dima\RiderProjects\taskmanager\taskmanager\bin\Debug\net9.0\taskmanager.exe
+C:\Users\Dima\RiderProjects\taskmanager\taskmanager\bin\Debug\net9.0\taskmanager.deps.json
+C:\Users\Dima\RiderProjects\taskmanager\taskmanager\bin\Debug\net9.0\taskmanager.runtimeconfig.json
+C:\Users\Dima\RiderProjects\taskmanager\taskmanager\bin\Debug\net9.0\taskmanager.dll
+C:\Users\Dima\RiderProjects\taskmanager\taskmanager\bin\Debug\net9.0\taskmanager.pdb
+C:\Users\Dima\RiderProjects\taskmanager\taskmanager\obj\Debug\net9.0\taskmanager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dima\RiderProjects\taskmanager\taskmanager\obj\Debug\net9.0\taskmanager.AssemblyInfoInputs.cache
+C:\Users\Dima\RiderProjects\taskmanager\taskmanager\obj\Debug\net9.0\taskmanager.AssemblyInfo.cs
+C:\Users\Dima\RiderProjects\taskmanager\taskmanager\obj\Debug\net9.0\taskmanager.csproj.CoreCompileInputs.cache
+C:\Users\Dima\RiderProjects\taskmanager\taskmanager\obj\Debug\net9.0\taskmanager.sourcelink.json
+C:\Users\Dima\RiderProjects\taskmanager\taskmanager\obj\Debug\net9.0\taskmanager.dll
+C:\Users\Dima\RiderProjects\taskmanager\taskmanager\obj\Debug\net9.0\refint\taskmanager.dll
+C:\Users\Dima\RiderProjects\taskmanager\taskmanager\obj\Debug\net9.0\taskmanager.pdb
+C:\Users\Dima\RiderProjects\taskmanager\taskmanager\obj\Debug\net9.0\taskmanager.genruntimeconfig.cache
+C:\Users\Dima\RiderProjects\taskmanager\taskmanager\obj\Debug\net9.0\ref\taskmanager.dll
